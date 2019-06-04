@@ -1,4 +1,26 @@
 
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.stat-container {
+   background: white;
+   width: 100px;
+   height: 100px;
+    
+    
+    
+}
+
+#result {
+    background: white;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+}
+
+
 .crystals{
     display: flex;
     justify-content: space-around;
@@ -10,6 +32,19 @@
 
 .crystal {
     border: 1px solid blue;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+.rules-container{
+    width: 700px;
+    height: 300px;
+    background: white;
+   line-height: 4ex;
+   position:center;
+   margin-left: 350px;
+   background: salmon;
+   
+
+
 }
